@@ -52,7 +52,7 @@
 				<artifactId>tomcat7-maven-plugin</artifactId>
 				<version>2.2</version>
 				<configuration>
-					<url>http://192.168.0.24:9999/manager/text</url>
+					<url>http://192.168.56.1:9999/manager/text</url>
 					<username>admin</username>
 					<password>1234</password>
 				</configuration>
